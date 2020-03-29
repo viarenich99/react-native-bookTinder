@@ -1,0 +1,1 @@
+export { default as Storage } from '../src/services/storageService';
